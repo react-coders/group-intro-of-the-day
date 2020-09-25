@@ -16,3 +16,6 @@ let's create a tiny project to intro our members by picking their numbers random
 ##### Mention +92 3323967 and ask for full introduction
 - Mention number on group whoever is that and ask for Introduction.
 - Remove those whose introduction has been done or number picked by app.
+
+- Pushed code and It will look like this. Please improve UI and logics more if you see any issue in code before we create a public link. 
+![](https://i.imgur.com/ylupaTP.png)
