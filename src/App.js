@@ -43,7 +43,7 @@ export default class App extends Component {
         var today = new Date().toLocaleDateString();
         for (let i = 2; i < totalMembers+1; i++) {
           const element = sheet.getCellByA1(`C${i}`).value;
-          if (element == `"${today}"`) {
+          if (element === `"${today}"`) {
             numbers.push({ existingDate: element, cellId: i })
           }
         }
